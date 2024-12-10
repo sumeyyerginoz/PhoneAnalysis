@@ -17,8 +17,7 @@ This project aims to analyze the technical specifications of smartphones and the
 
 **📊 Visualization:** 
 <img width="284" alt="Ekran Resmi 2024-12-10 11 55 46" src="https://github.com/user-attachments/assets/869c25c3-b5ef-4ae9-9381-08d91246217b">
-<img width="435" alt="Ekran Resmi 2024-12-10 11 56 07" src=![Uploading Ekran Resmi 2024-12-10 12.10.22.png…]()
-"https://github.com/user-attachments/assets/d54eb310-01a7-4377-87b8-e9b8938cc041">
+
 <img width="434" alt="Ekran Resmi 2024-12-10 12 10 38" src="https://github.com/user-attachments/assets/9f39151f-2c92-408b-9903-a58446808d2d">
 
 ---
